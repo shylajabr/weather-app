@@ -5,7 +5,7 @@ export default function App() {
   return (
     <div className="App">
       <div class="container">
-        <Weather />
+        <Weather defaultCity="New York" />
         <footer>
           This project was coded by <a href=" "> shyla </a> and is{" "}
           <a href="https://github.com/shylajabr/weather-app" target="-blank">
