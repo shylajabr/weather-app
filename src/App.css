@@ -1,0 +1,13 @@
+.App {
+  max-width: 100%;
+  margin: 30px auto;
+}
+.App footer {
+  font-size: 15px;
+  margin: 10px 0;
+  position: relative;
+  bottom: 30px;
+  left: -80px;
+  text-align: center;
+  font-style: oblique;
+}
