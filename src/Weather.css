@@ -65,13 +65,13 @@
   display: inline-block;
   display: block;
   margin: auto;
-  bottom: -60px;
+  bottom: -70px;
   position: relative;
   text-align: center;
   line-height: 1;
   padding: 20px;
-  color: aliceblue;
 }
+
 .WeatherTemperature .unit {
   font-size: 16px;
   font-weight: 400;
@@ -88,7 +88,7 @@
 }
 .WeatherInfo .col {
   position: relative;
-  left: -280px;
+  left: -350px;
   font-size: 20px;
   font-style: italic;
 
@@ -121,6 +121,6 @@
   position: relative;
   bottom: -10px;
 }
-.WeatherIcon .float {
+.WeatherTemperature a {
   color: aliceblue;
 }

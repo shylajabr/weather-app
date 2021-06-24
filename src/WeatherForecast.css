@@ -1,0 +1,17 @@
+.WeatherForecast {
+  text-align: center;
+}
+.WeatherForecast .WeatherForecast-temperature-min {
+  margin-left: 10px;
+  color: aliceblue;
+}
+.WeatherForecast canvas {
+  position: relative;
+  top: -05px;
+}
+.WeatherForecast .WeatherForecast-day {
+  color: aliceblue;
+}
+.WeatherForecast .WeatherForecast-temperature-max {
+  color: white;
+}
